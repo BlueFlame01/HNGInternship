@@ -1,0 +1,39 @@
+/*
+html {
+	text-align: center;
+}
+*/
+
+body {
+	margin: 0 auto;
+    width: 800px;
+    background-color: beige;
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+  }
+  
+  <img src="https://res.cloudinary.com/ddf8wjcuy/image/upload/v1566519357/WhatsApp_Image_2019-08-23_at_01.14.13_1_npfjux.jpg" alt="Passport photograph">
+h1{
+    font-family: Georgia;
+    color: #000000
+}
+
+div {
+    color: black
+}
+
+h3{
+    color: navy;
+    font-family: Georgia;
+    font-size: 20px
+}
+
+h4 {
+    font-family: Georgia;
+    color: navy;
+    font-size: 18px
+}
