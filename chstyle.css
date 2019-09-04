@@ -1,0 +1,107 @@
+/*
+html {
+	text-align: center;
+}
+*/
+body {
+	margin: 0 auto;
+    width: 900px;
+    background-color: rgb(241, 238, 233);
+    margin-top: 0px;
+    margin-bottom: 5px;
+    text-align: left;
+}
+
+h1{
+    font-family: Georgia;
+    color: #000000
+}
+
+div {
+    color: black
+}
+
+h3{
+    color: navy;
+    font-family: Georgia;
+    font-size: 20px
+}
+
+h4 {
+    font-family: Georgia;
+    color: navy;
+    font-size: 18px
+}
+
+.raven {
+    background-color: navy;
+    border-radius: 8px;
+    width: 600px; 
+    cursor: pointer;
+    margin-left: 8px;
+}
+
+h2 {
+    font-family: Georgia;
+    color: rgb(241, 238, 233);
+}
+
+.des {
+    font-family: Georgia;
+    color: rgb(241, 238, 233);
+    font-weight: 500;
+}
+
+input[type=text] {
+    width: 60%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#myform {
+    width: 600px;
+    padding: 12px 20px;
+    margin: 8px 8px;
+    /*background-color:rgb(241, 238, 233);*/
+    display: inline-block;
+    border: 0px solid #ccc;
+    border-radius: 8px;
+    box-sizing: border-box;
+} 
+
+textarea {
+    width: 60%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.mybtn {
+    width: 30%;
+    background-color: navy;
+    color: white;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.mybtn:hover {
+    background-color: #45a049;
+}
+
+div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    font-weight: 500;
+    font-family: Georgia;
+}
